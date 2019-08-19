@@ -1,6 +1,10 @@
 # GomokuAI
 Project@ Artificial Intelligence 2018, Fudan University
 
+Author: Weijie Deng, Yifei Chen
+
+
+
 As for the Piskvork Gomoku Manager, and Python AI Template for Gomoku, please refer to the link below:
 
 https://github.com/stranskyjan/pbrain-pyrandom
