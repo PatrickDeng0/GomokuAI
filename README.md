@@ -7,4 +7,4 @@ https://github.com/stranskyjan/pbrain-pyrandom
 
 util.py contains our design of the two classes called StateNode and MCTS, which are imported to example.py.
 
-For further description, please notice the report.pdf.
+For further description of our heuristic MCTS design, please notice the report.pdf.
